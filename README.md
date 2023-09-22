@@ -158,13 +158,12 @@ Here are some potential improvements for the project:
 
 Author
 
-    sanusi emmanuel.
+    Sanusi Emmanuel.
 
 Social Handles
 
 GitHub: https://github.com/sanusiemmanuel
-Twitter: http://www.twitter.com/sanusiemmanuel
-
+LinkedIn: https://www.linkedin.com/in/emmanuel-sanusi-r-engr-mnse-mba-clssbb-a418687b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BKulzoBvEQsiJQsF5aPFN3Q%3D%3D
 
 
 Acknowledgment
